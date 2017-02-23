@@ -1,12 +1,12 @@
-    def getRightChild(self):
-        return self.rightChild
+def getRightChild(self):
+    return self.rightChild
 
-    def getLeftChild(self):
-        return self.leftChild
+def getLeftChild(self):
+    return self.leftChild
 
-    def setRootVal(self,obj):
-        self.key = obj
+def setRootVal(self,obj):
+    self.key = obj
 
-    def getRootVal(self):
-        return self.key
+def getRootVal(self):
+    return self.key
         
